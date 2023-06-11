@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordLib_MaxG", "WordLib_MaxG.csproj", "{3EB84FB1-5DB1-4E2C-A4BF-9C198AEF5FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordLibTest_MaxG", "..\WordLibTest_MaxG\WordLibTest_MaxG.csproj", "{5F1A3401-E99C-4A61-A746-B283EBB98C43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E3CF4C76-7E94-43D3-9338-6731C8B8B42D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EB84FB1-5DB1-4E2C-A4BF-9C198AEF5FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB84FB1-5DB1-4E2C-A4BF-9C198AEF5FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB84FB1-5DB1-4E2C-A4BF-9C198AEF5FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB84FB1-5DB1-4E2C-A4BF-9C198AEF5FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1A3401-E99C-4A61-A746-B283EBB98C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1A3401-E99C-4A61-A746-B283EBB98C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1A3401-E99C-4A61-A746-B283EBB98C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1A3401-E99C-4A61-A746-B283EBB98C43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C6870F4-88D2-4BB1-BC3F-3198536382EA}
+	EndGlobalSection
+EndGlobal
